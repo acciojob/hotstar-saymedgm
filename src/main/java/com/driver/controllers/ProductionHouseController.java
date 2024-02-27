@@ -27,4 +27,9 @@ public class ProductionHouseController {
 
     }
 
+//    @GetMapping("/getMaxPossibleViewerShip")
+//    public Integer getMaximumPossibleViewership(@RequestParam("productionId")Integer productionHouseId){
+//
+//        return productionHouseService.
+//    }
 }
